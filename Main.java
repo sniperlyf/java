@@ -1,7 +1,7 @@
-import java.util.*;
-public class Main       // why static in below line? because we can to run main function witout creating a class of 'Main'( i.e. name of file) class
-{
-	public static void main(String[] args) {
+// import java.util.*;
+// public class Main       // why static in below line? because we can to run main function witout creating a class of 'Main'( i.e. name of file) class
+// {
+// 	public static void main(String[] args) {
 // 		System.out.print("enter number: ");
 // 		Scanner sc = new Scanner(System.in);
 // 		int n = sc.nextInt();
@@ -45,13 +45,13 @@ public class Main       // why static in below line? because we can to run main 
 	    
 	   // ----------BASIC QUESTION----------------
 	   
-	   Scanner in = new Scanner(System.in);
-	   System.out.print("enter your temp in celcius: ");
-	   float tempC = in.nextFloat();
+// 	   Scanner in = new Scanner(System.in);
+// 	   System.out.print("enter your temp in celcius: ");
+// 	   float tempC = in.nextFloat();
 	   
-	   float tempF = (tempC* 9/5) + 32;
-	   System.out.print("your temp in faranhight is: ");
-	   System.out.print(tempF);
-	}
-}
+// 	   float tempF = (tempC* 9/5) + 32;
+// 	   System.out.print("your temp in faranhight is: ");
+// 	   System.out.print(tempF);
+// 	}
+// }
  
